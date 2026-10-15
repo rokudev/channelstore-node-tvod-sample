@@ -1,3 +1,11 @@
+# channelstore-node-tvod-sample has moved to GitLab
+
+**This project has moved.** Development now continues at **https://gitlab.com/rokudev/channelstore-node-tvod-sample**.
+
+This GitHub repository is archived and read-only. It is kept only as a pointer to the new home. Please open new issues and merge requests on GitLab.
+
+---
+
 # Transactional Purchases using the ChannelStore Node
 _A sample demonstrating how to setup transactional purchases using the ChannelStore node_
 
